@@ -8,9 +8,9 @@ I am a web developer who loves react.
 
 * 🌍  I'm based in Aba, Nigeria
 * ✉️  You can contact me at [majestyyolo@gmail.com](mailto:majestyyolo@gmail.com)
-* 🧠  I'm learning next.js
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I love anything and everything internet, web 3, machine learning & AI.
+* ⚡  I love anything and everything internet, cyber Security, machine learning & AI.
 
 ### Skills
 
